@@ -6,6 +6,8 @@
 
 目前主要使用go语言进行开发，使用vue作为前端框架，使用python进行深度学习的探索
 
+My site:building
+
 My blog:https://blog.csdn.net/corruptwww  
 
 My email:hhd5050@foxmail.com
