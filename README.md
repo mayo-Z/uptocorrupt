@@ -6,7 +6,7 @@
 
 目前主要使用go语言进行后端开发，使用vue/react作为前端框架，使用python进行深度学习的探索
 
-My site:[www.akbcat.com](www.akbcat.com)
+My site:[http://www.akbcat.com](http://www.akbcat.com)
 
 My blog:https://blog.csdn.net/corruptwww  
 
