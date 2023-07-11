@@ -4,7 +4,7 @@
 
 我有使用过java进行后端开发，tableau、R语言进行数据分析，接触过scala语言和hadoop框架
 
-目前主要使用go语言进行开发，使用vue作为前端框架，使用python进行深度学习的探索
+目前主要使用go语言进行后端开发，使用vue/react作为前端框架，使用python进行深度学习的探索
 
 My site:building
 
