@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://img.shields.io/badge/-go-blue.svg" /><img src="https://img.shields.io/badge/-python-yellow" /><img src="https://img.shields.io/badge/-typescript-blue" /><img src="https://img.shields.io/badge/-vue-green" /></p>
 
-你好，我是秋叶原的黑猫
+你好，我是mayo
 
 我有使用过java进行后端开发，tableau、R语言进行数据分析，接触过scala语言和hadoop框架
 
